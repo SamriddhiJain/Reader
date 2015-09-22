@@ -1,0 +1,5 @@
+/home/samriddhi/AndroidStudioProjects/Reader/app/build/intermediates/classes/debug
+/home/samriddhi/AndroidStudioProjects/Reader/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-a3e605f87c53c2c99b7a9a6103c60469a320c05a.jar
+/home/samriddhi/AndroidStudioProjects/Reader/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1fa7e8c0433dd738f8d622cf3025098c57249a0c.jar
+/home/samriddhi/AndroidStudioProjects/Reader/app/build/intermediates/pre-dexed/debug/classes-8487da40bafcd9884fee3a23615039a9c2913f0c.jar
+/home/samriddhi/AndroidStudioProjects/Reader/app/build/intermediates/pre-dexed/debug/classes-78b6c4b2b021b5fbca2b522642d1f83266855b5f.jar
